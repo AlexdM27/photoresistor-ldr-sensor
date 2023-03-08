@@ -56,6 +56,6 @@ Características
   </pre>
   
   
-  ![apagada](https://github.com/tectijuana/git-fundamentos-AlexdM27/blob/main/apagada.jpg)
+  ![resistor](https://github.com/AlexdM27/photoresistor-ldr-sensor/blob/main/resistor.jpg)
 
   
