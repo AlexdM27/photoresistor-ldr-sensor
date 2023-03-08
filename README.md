@@ -57,5 +57,5 @@ Características
   
   
   ![resistor](https://github.com/AlexdM27/photoresistor-ldr-sensor/blob/main/resistor.jpg)
-
+![ejemplo](https://github.com/AlexdM27/photoresistor-ldr-sensor/blob/main/ejemplo.png)
   
